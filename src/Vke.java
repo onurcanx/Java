@@ -9,5 +9,6 @@ public class Vke {
         kilo= imp.nextDouble();
         sonuc=kilo/(boy*boy);
         System.out.print("Vücut kitle endeksiniz:"+sonuc);
+
     }
 }

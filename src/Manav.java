@@ -7,12 +7,12 @@ public class Manav {
         a= imp.nextDouble();
         System.out.print("Elma Kaç Kilo ? :");
         e= imp.nextDouble();
-        System.out.print("Domates Kaç Kilo ? :");
+        System.out.println("Domates Kaç Kilo ? :");
         d= imp.nextDouble();
-        System.out.print("Patlican Kaç Kilo ? :");
+        System.out.println("Patlican Kaç Kilo ? :");
         p= imp.nextDouble();
         toplam=(a*armut)+(e*elma)+(d*domates)+(p*patlican);
-        System.out.print("Toplam Tutar :"+toplam);
+        System.out.println("Toplam Tutar sss:"+toplam);
 
 
     }
