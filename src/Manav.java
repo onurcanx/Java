@@ -12,7 +12,7 @@ public class Manav {
         System.out.println("Patlican Kaç Kilo ? :");
         p= imp.nextDouble();
         toplam=(a*armut)+(e*elma)+(d*domates)+(p*patlican);
-        System.out.println("Toplam Tutar sss:"+toplam);
+        System.out.println("Toplam Tutar :"+toplam);
 
 
     }
